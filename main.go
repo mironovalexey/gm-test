@@ -1,12 +1,11 @@
 package main
 
-import (
-	"github.com/mironovalexey/gm-test/eof"
-)
+import "github.com/mironovalexey/gm-test/html"
 
 func main() {
 
 	//note.Run()
-	eof.Run()
+	html.Run()
+	//eof.Run()
 
 }
