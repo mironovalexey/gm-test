@@ -1,6 +1,9 @@
 package main
 
-import "github.com/mironovalexey/gm-test/hattrs"
+import (
+	"github.com/mironovalexey/gm-test/hattrs"
+	"github.com/mironovalexey/gm-test/hcomments"
+)
 
 func main() {
 
@@ -8,5 +11,6 @@ func main() {
 	//html.Run()
 	//eof.Run()
 	hattrs.Run()
+	hcomments.Run()
 
 }
