@@ -23,13 +23,17 @@ This *markup* **should** be treaded as <codeph>HTML</codeph>.
 <span>This *markup* **should** be treaded as `markdown`.</span>
 
 <span>
+
 This *markup* **should** be treaded as `markdown`.
+
 </span>
 
 <i>And this **too**.</i>
 
 <i>
+
 And this **too**.
+
 </i>
 
 
