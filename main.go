@@ -1,16 +1,14 @@
 package main
 
-import (
-	"github.com/mironovalexey/gm-test/hattrs"
-	"github.com/mironovalexey/gm-test/hcomments"
-)
+import "github.com/mironovalexey/gm-test/line"
 
 func main() {
 
 	//note.Run()
 	//html.Run()
 	//eof.Run()
-	hattrs.Run()
-	hcomments.Run()
+	//hattrs.Run()
+	//hcomments.Run()
+	line.Run()
 
 }
